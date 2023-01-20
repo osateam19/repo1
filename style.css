@@ -43,3 +43,13 @@ text-decoration: none;
 	background: #1d1d1d;
     color: #fff;
     position:absolute;
+}
+
+a.gal:hover img{
+	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=2);
+
+}
+
+.mi-slider ul li a:hover {
+	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=60);
+}
