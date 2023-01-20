@@ -12,3 +12,8 @@ padding-left: 9px; /* Width of left menu image */
 text-decoration: none;
 }
 
+.fancybox-title-float-wrap {
+  position: absolute;
+  bottom: 0;
+  right: 50%;
+  margin-bottom: -35px;
