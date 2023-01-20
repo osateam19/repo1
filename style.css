@@ -36,3 +36,10 @@ text-decoration: none;
     position:absolute;
     left: 0;
     right: 0;
+.carousel .backgrounds .item_3{
+}
+
+.carousel .panel{
+	background: #1d1d1d;
+    color: #fff;
+    position:absolute;
