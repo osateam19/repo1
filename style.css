@@ -53,3 +53,11 @@ a.gal:hover img{
 .mi-slider ul li a:hover {
 	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=60);
 }
+	height: 65px;
+	margin-top: 25px;
+	margin-bottom: 50px;
+	background: url(images/templatemo_menu_bg.png) no-repeat;
+}
+
+#templatemo_menu ul {
+	overflow: hidden;
