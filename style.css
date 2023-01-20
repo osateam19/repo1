@@ -1,0 +1,7 @@
+.document {height:265px;background:#fff;margin-top:30px}
+.dochead {background:#689e18;height:45px;font:24px Tahoma, Geneva, sans-serif;color:#FFF;width:385px;margin-left:-10px}
+.bubble {background:url(../images/bubble.png) no-repeat bottom right;height:39px;margin-top:67px;margin-right:15px}
+.ltposts ul {float:left;list-style:none;margin-top:10px}
+.ltposts li a,a:link {font:14px Tahoma, Geneva, sans-serif;color:#413e32;line-height:30px;font-weight:bold;text-decoration:none}
+.ltposts li a:hover {font:14px Tahoma, Geneva, sans-serif;color:#413e32;line-height:30px;font-weight:bold;text-decoration:underline}
+.rtposts ul {float:right;list-style:none;width:100px;margin-top:10px;margin-right:35px}
