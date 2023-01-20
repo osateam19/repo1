@@ -31,3 +31,8 @@ text-decoration: none;
 	color: #fff;
 	border-bottom: 1px solid rgba(255,255,255,0.55);
 	box-shadow: 0 1px 0 rgba(0,0,0,0.1), 0 -15px 0 rgba(255,255,255,0.73);
+{
+    margin:auto; 
+    position:absolute;
+    left: 0;
+    right: 0;
